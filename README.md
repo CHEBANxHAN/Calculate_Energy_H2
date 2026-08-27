@@ -89,7 +89,7 @@ Based on the methods described above, potential energy curves for the H₂ molec
 
 The graph generated from the Q# code shows the ground‑state energy (in eV) versus bond length (in Å).
 
-![H₂ energy curve (Q#)](images/En_Q#.png)
+![H₂ energy curve (Q#)](images/En_QSharp.png)
 
 ### 🐍 Python implementation
 
